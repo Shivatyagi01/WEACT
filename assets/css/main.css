@@ -123,6 +123,12 @@ h5 {
   background-color: var(--color-black-bg);
 }
 /* fonts */
+.big-title {
+  font-size: 240px;
+  font-weight: 700;
+  color: var(--color-black);
+  line-height: 100%;
+}
 .title {
   font-size: 52px;
   line-height: 65px;
@@ -363,4 +369,11 @@ header .menu li a:hover {
   color: var(--color-black);
   line-height: 21px;
   margin-top: 60px;
+}
+/* about */
+.grid.three-column {
+  padding-top: 30px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 30px;
 }

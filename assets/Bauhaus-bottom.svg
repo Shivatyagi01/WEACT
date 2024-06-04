@@ -1,0 +1,44 @@
+<svg width="720" height="1080" viewBox="0 0 720 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_446_519)">
+<rect width="360" height="360" transform="matrix(1 -8.74228e-08 -8.74228e-08 -1 0 1080)" fill="#252525"/>
+<g clip-path="url(#clip1_446_519)">
+<rect width="720" height="360" transform="translate(0 720)" fill="#FDF7EC"/>
+<rect x="360" y="720" width="360" height="360" fill="#FDF7EC"/>
+<circle cx="360" cy="720" r="360" fill="#252525"/>
+<circle cx="180" cy="720" r="180" fill="#FF3B00"/>
+<circle cx="540" cy="720" r="180" fill="#FF3B00"/>
+</g>
+<g clip-path="url(#clip2_446_519)">
+<rect x="720" y="720" width="360" height="360" transform="rotate(180 720 720)" fill="#FDF7EC"/>
+<circle cx="360" cy="720" r="360" transform="rotate(180 360 720)" fill="#FF3B00"/>
+</g>
+<g clip-path="url(#clip3_446_519)">
+<rect width="360" height="720" transform="matrix(1 -8.74228e-08 -8.74228e-08 -1 0 720)" fill="#252525"/>
+<rect width="360" height="360" transform="matrix(1 -8.74228e-08 -8.74228e-08 -1 0 360)" fill="#FDF7EC"/>
+<rect width="360" height="360" transform="matrix(1 -8.74228e-08 -8.74228e-08 -1 0 720)" fill="#FDF7EC"/>
+<circle cx="360" cy="360" r="360" transform="matrix(1 -8.74228e-08 -8.74228e-08 -1 0 720)" fill="#252525"/>
+</g>
+<g clip-path="url(#clip4_446_519)">
+<rect width="360" height="360" transform="matrix(1 -8.74228e-08 -8.74228e-08 -1 360 360)" fill="#FDF7EC"/>
+<circle cx="360" cy="360" r="360" transform="matrix(1 -8.74228e-08 -8.74228e-08 -1 0 720)" fill="#FF3B00"/>
+<circle cx="180" cy="180" r="180" transform="matrix(1 -8.74228e-08 -8.74228e-08 -1 360 540)" fill="#252525"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_446_519">
+<rect width="720" height="1080" fill="white" transform="matrix(1 -8.74228e-08 -8.74228e-08 -1 0 1080)"/>
+</clipPath>
+<clipPath id="clip1_446_519">
+<rect width="720" height="360" fill="white" transform="translate(0 720)"/>
+</clipPath>
+<clipPath id="clip2_446_519">
+<rect width="360" height="360" fill="white" transform="translate(720 720) rotate(180)"/>
+</clipPath>
+<clipPath id="clip3_446_519">
+<rect width="360" height="720" fill="white" transform="matrix(1 -8.74228e-08 -8.74228e-08 -1 0 720)"/>
+</clipPath>
+<clipPath id="clip4_446_519">
+<rect width="360" height="360" fill="white" transform="matrix(1 -8.74228e-08 -8.74228e-08 -1 360 360)"/>
+</clipPath>
+</defs>
+</svg>
